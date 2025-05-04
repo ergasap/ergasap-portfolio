@@ -8,9 +8,7 @@ export const metaData = {
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  github: "https://github.com/ergasap",
+  linkedin: "https://www.linkedin.com/in/ernesto-gaspar-aparicio-a56404214/",
+  email: "mailto:ernestogaspar2000@gmail.com",
 };
