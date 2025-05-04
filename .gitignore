@@ -1,0 +1,28 @@
+# Node modules (dependencias instaladas)
+node_modules/
+
+# Compilaciones Next.js
+.next/
+out/
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor configs
+.DS_Store
+.vscode/
+.idea/
+
+# Dependencias bloqueadas (si no usas)
+package-lock.json
+yarn.lock
+
+# Vercel (si configuras algo manual)
+.vercel/
